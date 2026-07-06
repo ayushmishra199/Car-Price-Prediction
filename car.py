@@ -87,7 +87,7 @@ st.success(f"R² Score : {score:.2f}")
 st.subheader("Enter Car Details")
 
 car_name = st.selectbox(
-    "Car Name",
+    "Vehicle Name",
     car_names
 )
 
