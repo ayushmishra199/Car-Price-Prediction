@@ -1,6 +1,8 @@
 # 🚗 Car Price Prediction
 
-A Machine Learning web application built using **Python**, **Streamlit**, and **Scikit-learn** to predict the selling price of a used car.
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-success)](https://car-price-prediction-dpqchxncdfwncu4hjnrbpr.streamlit.app/)
+
+A Machine Learning web application built using **Python**, **Streamlit**, and **Scikit-learn** to predict the selling price of used cars.
 
 ## Features
 - Predicts car selling price
